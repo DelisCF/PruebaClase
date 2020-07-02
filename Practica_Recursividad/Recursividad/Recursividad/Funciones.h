@@ -3,7 +3,7 @@
 #include <time.h>
 #include <cstdlib>
 using namespace std;
-
+//Ejemplos de recursividad
 //división por restas sucesivas
 int divisionRestas(int &dividendo, int divisor) {
 	if (divisor>dividendo) {
